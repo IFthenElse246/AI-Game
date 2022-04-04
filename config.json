@@ -1,0 +1,6 @@
+{
+    "maxFps": 60,
+    "unfocusFps":30,
+    "startingWindowWidth":960,
+    "startingWindowHeight":540
+}
